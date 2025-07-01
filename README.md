@@ -2,7 +2,7 @@
 
 This project uses a webcam to count the number of fingers held up (from 1 to 10) and displays the result on a physical 7-segment display connected to an Arduino Uno.
 
-  <!-- Optional: Add a photo or GIF of your project working here! -->
+
 
 ## Features
 - Real-time hand and finger detection using MediaPipe.
